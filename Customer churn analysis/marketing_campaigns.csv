@@ -1,0 +1,11 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,channel
+1,Spring Discount Push,Discount Offer,2024-07-28,2024-08-16,Social Media
+2,Win-Back Offer Q1,Email,2026-01-05,2026-01-20,SMS
+3,Loyalty Rewards Email,SMS,2021-11-27,2021-12-15,In-App
+4,New Feature Announcement,Discount Offer,2021-11-22,2021-12-11,In-App
+5,Annual Plan Upgrade Promo,Push Notification,2025-06-06,2025-06-22,Email
+6,Referral Bonus Campaign,Push Notification,2021-07-06,2021-07-25,SMS
+7,Re-engagement SMS Blast,SMS,2024-12-10,2025-01-05,Email
+8,Holiday Season Sale,SMS,2023-01-21,2023-02-18,Email
+9,Free Trial Extension,Discount Offer,2021-08-31,2021-10-13,Email
+10,Customer Anniversary Offer,Email,2024-01-13,2024-02-06,SMS
